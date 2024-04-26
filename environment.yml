@@ -1,0 +1,12 @@
+name: tail-tracking
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - av
+  - numpy
+  - napari
+  - h5py
+  - tifffile
+  - tqdm
+  - scipy
