@@ -3,8 +3,6 @@ from pathlib import Path
 
 import numpy as np
 import napari
-import dask.array as da
-import h5py
 import tifffile
 
 # %%
